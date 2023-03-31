@@ -36,6 +36,7 @@
 {"Id":"1148020","Name":"Cities: Skylines - Content Creator Pack:Modern City Center","Title":"内容创作者包：现代城市中心"},
 {"Id":"1148021","Name":"Cities: Skylines - Downtown Radio","Title":"市中心广播电台"},
 {"Id":"1148022","Name":"Cities: Skylines - Content Creator Pack:Modern Japan","Title":"内容创作者包：现代日本"},
+  
 {"Id":"1196100","Name":"Cities: Skylines - Coast to Coast Radio","Title":"海岸到海岸广播电台"},
 {"Id":"1531470","Name":"Cities: Skylines - Content Creator Pack:Train Stations","Title":"内容创作者包：火车站"},
 {"Id":"1531471","Name":"Cities: Skylines - Content Creator Pack:Bridges\u0026Piers","Title":"内容创作者包：桥梁与码头"},
@@ -46,6 +47,7 @@
 {"Id":"1726382","Name":"Cities: Skylines - Content Creator Pack:Map Pack","Title":"内容创建者包：地图包"},
 {"Id":"1726383","Name":"Cities: Skylines - On Air Radio","Title":"空中广播"},
 {"Id":"1726384","Name":"Cities: Skylines - Calm The Mind Radio","Title":"平静心灵电台"},
+  
 {"Id":"1992290","Name":"Cities: Skylines - Content Creator Pack:Mid-Century Modern","Title":"内容创作者包：中世纪现代"},
 {"Id":"1992291","Name":"Cities: Skylines - Content Creator Pack:Seaside Resorts","Title":"内容创作者包：海滨度假村"},
 {"Id":"1992292","Name":"Cities: Skylines - Shoreline Radio","Title":"海岸线广播"},
@@ -55,6 +57,8 @@
 {"Id":"2144481","Name":"Cities: Skylines - Content Creator Pack:Skyscrapers","Title":"内容创作者包：摩天大楼"},
 {"Id":"2144482","Name":"Cities: Skylines - K-pop Station","Title":"韩国流行音乐站"},
 {"Id":"2144483","Name":"Cities: Skylines - 80\u0027s Downtown Beat","Title":"80年代的市中心节拍"},
+  
+{"Id":"2148900","Name":"Cities: Skylines - Content Creator Pack: Africa in Miniature","Title":"内容创建者包:非洲剪影"},
 {"Id":"2148901","Name":"Cities: Skylines - Financial Districts","Title":"金融区"},
 {"Id":"2148902","Name":"Cities: Skylines - JADIA Radio","Title":"jadia电台"},
 {"Id":"2148903","Name":"Cities: Skylines - Content Creator Pack:Map Pack 2","Title":"内容创建者包：地图包 2"},
@@ -63,5 +67,6 @@
 {"Id":"2224691","Name":"Cities: Skylines - Content Creator Pack: Shopping Malls","Title":"内容创作者包：购物商场"},
 {"Id":"2225940","Name":"Cities: Skylines - 80\u0027s Movies Tunes","Title":"80年代电影旋律"},
 {"Id":"2225941","Name":"Cities: Skylines - Pop-Punk Radio","Title":"流行朋克电台"}
+  
 ]
 
