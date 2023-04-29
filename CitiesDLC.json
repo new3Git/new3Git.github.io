@@ -19,6 +19,7 @@
 {"Id":"547501","Name":"Cities: Skylines - Relaxation Station","Title":"休闲站"},
 {"Id":"547502","Name":"Cities: Skylines - Mass Transit","Title":"公共交通"},
 {"Id":"563850","Name":"Cities: Skylines - Pearls From the East","Title":"来自东方的珍珠"},
+  
 {"Id":"614580","Name":"Cities: Skylines - Green Cities","Title":"绿色城市"},
 {"Id":"614581","Name":"Cities: Skylines - Concerts","Title":"音乐会"},
 {"Id":"614582","Name":"Cities: Skylines - Rock City Radio","Title":"摇滚城市电台"},
@@ -67,7 +68,9 @@
 {"Id":"2224690","Name":"Cities: Skylines - Content Creator Pack: Sports Venues","Title":"内容创作者包：运动场馆"},
 {"Id":"2224691","Name":"Cities: Skylines - Content Creator Pack: Shopping Malls","Title":"内容创作者包：购物商场"},
 {"Id":"2225940","Name":"Cities: Skylines - 80\u0027s Movies Tunes","Title":"80年代电影旋律"},
-{"Id":"2225941","Name":"Cities: Skylines - Pop-Punk Radio","Title":"流行朋克电台"}
+{"Id":"2225941","Name":"Cities: Skylines - Pop-Punk Radio","Title":"流行朋克电台"},
+{"Id":"2313323","Name":"Cities: Skylines - 90\u0027s Pop Radio","Title":"城市：天际线 - 90年代流行电台"},
+{"Id":"2313324","Name":"Cities: Skylines - Piano Tunes Radio","Title":"城市： 天际线 - 钢琴曲调电台"}
   
 ]
 
